@@ -1,7 +1,7 @@
 <<h1 align="center">Hi 👋, I'm Piyush rai</h1>
 <h3 align="center">I am a student . interested in technology , web development , solving programming problems | enthusiast about data science ,AI,.</h3>
 
-- 🔭 I’m currently working on [Machine learning](https://github.com/piyushrai007/machine_learning)
+- 🔭 I’m currently working on [Edunova-Adeptify](https://github.com/piyushrai007/edunova)
 
 - 🌱 I’m currently learning **data science**
 
