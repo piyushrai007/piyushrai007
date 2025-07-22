@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **piyushraivds45@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/piyush-rai-3b8714226/](https://www.linkedin.com/in/piyush-rai-3b8714226/)
+- 📄 Know about my experiences [linked-in](https://www.linkedin.com/in/piyush-rai-ai/)
 
 - ⚡ Fun fact **I love to watch movies**
 
